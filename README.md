@@ -1,6 +1,4 @@
-Here is the revised version from your point of view for the Gallery App project with the updated link:
 
----
 
 In this project, I built a **Gallery App** by applying the concepts I have learned so far. 🖼️📸
 
