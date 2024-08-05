@@ -1,0 +1,17 @@
+/* Write your code here. */
+ul {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+ 
+}
+.main-img {
+  height: 40vw;
+}
+.bg-main {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 10px;
+}
